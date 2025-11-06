@@ -7,7 +7,7 @@ function actualizarContador() {
     if (contador >= 10) {
         contadorElemento.style.color = "Blue";
     } else {
-        contadorElemento.style.color = "#333";
+        contadorElemento.style.color = "black";
     }
 }
 
